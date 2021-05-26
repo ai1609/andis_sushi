@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f3a6199.chunk.css",
-    "main.js": "/static/js/main.27f66c19.chunk.js",
-    "main.js.map": "/static/js/main.27f66c19.chunk.js.map",
+    "main.css": "/static/css/main.180df801.chunk.css",
+    "main.js": "/static/js/main.abdb4a80.chunk.js",
+    "main.js.map": "/static/js/main.abdb4a80.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e56ecd1e.js",
     "runtime-main.js.map": "/static/js/runtime-main.e56ecd1e.js.map",
     "static/css/2.61b4cb56.chunk.css": "/static/css/2.61b4cb56.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f028e9d6.chunk.js.map": "/static/js/3.f028e9d6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.1f3a6199.chunk.css.map": "/static/css/main.1f3a6199.chunk.css.map",
+    "static/css/main.180df801.chunk.css.map": "/static/css/main.180df801.chunk.css.map",
     "static/js/2.6a45f0e1.chunk.js.LICENSE.txt": "/static/js/2.6a45f0e1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/sushi-background-original.250a3b9c.jpg",
     "static/media/sushi_logo.1fe2141b.svg": "/static/media/sushi_logo.1fe2141b.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.e56ecd1e.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.6a45f0e1.chunk.js",
-    "static/css/main.1f3a6199.chunk.css",
-    "static/js/main.27f66c19.chunk.js"
+    "static/css/main.180df801.chunk.css",
+    "static/js/main.abdb4a80.chunk.js"
   ]
 }
