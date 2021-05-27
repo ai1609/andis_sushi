@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.180df801.chunk.css",
-    "main.js": "/static/js/main.abdb4a80.chunk.js",
-    "main.js.map": "/static/js/main.abdb4a80.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e56ecd1e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e56ecd1e.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.6a45f0e1.chunk.js": "/static/js/2.6a45f0e1.chunk.js",
-    "static/js/2.6a45f0e1.chunk.js.map": "/static/js/2.6a45f0e1.chunk.js.map",
-    "static/js/3.f028e9d6.chunk.js": "/static/js/3.f028e9d6.chunk.js",
-    "static/js/3.f028e9d6.chunk.js.map": "/static/js/3.f028e9d6.chunk.js.map",
+    "main.css": "/static/css/main.14853341.chunk.css",
+    "main.js": "/static/js/main.52e4110b.chunk.js",
+    "main.js.map": "/static/js/main.52e4110b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dcbd5dbd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dcbd5dbd.js.map",
+    "static/js/2.9ae25868.chunk.js": "/static/js/2.9ae25868.chunk.js",
+    "static/js/2.9ae25868.chunk.js.map": "/static/js/2.9ae25868.chunk.js.map",
+    "static/js/3.12b1ecfd.chunk.js": "/static/js/3.12b1ecfd.chunk.js",
+    "static/js/3.12b1ecfd.chunk.js.map": "/static/js/3.12b1ecfd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.180df801.chunk.css.map": "/static/css/main.180df801.chunk.css.map",
-    "static/js/2.6a45f0e1.chunk.js.LICENSE.txt": "/static/js/2.6a45f0e1.chunk.js.LICENSE.txt",
+    "static/css/main.14853341.chunk.css.map": "/static/css/main.14853341.chunk.css.map",
+    "static/js/2.9ae25868.chunk.js.LICENSE.txt": "/static/js/2.9ae25868.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/sushi-background-original.250a3b9c.jpg",
     "static/media/sushi_logo.1fe2141b.svg": "/static/media/sushi_logo.1fe2141b.svg",
-    "static/media/homepage.styles.scss": "/static/media/sushi_logo_white_transparent.8b6c1801.png"
+    "static/media/speisekarte.styles.scss": "/static/media/sushi_logo_white_transparent.8b6c1801.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e56ecd1e.js",
-    "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.6a45f0e1.chunk.js",
-    "static/css/main.180df801.chunk.css",
-    "static/js/main.abdb4a80.chunk.js"
+    "static/js/runtime-main.dcbd5dbd.js",
+    "static/js/2.9ae25868.chunk.js",
+    "static/css/main.14853341.chunk.css",
+    "static/js/main.52e4110b.chunk.js"
   ]
 }
